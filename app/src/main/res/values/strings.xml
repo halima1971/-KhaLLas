@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sala PB</string>
+    <string name="login_title">Sala PB তে লগইন করুন</string>
+    <string name="username_hint">ইউজারনেম</string>
+    <string name="password_hint">পাসওয়ার্ড</string>
+    <string name="login_button">লগইন করুন</string>
+    <string name="logout_button">লগআউট</string>
+    <string name="add_game">গেম যোগ করুন</string>
+    <string name="my_games">আমার গেমস</string>
+    <string name="bot_dashboard">বট ড্যাশবোর্ড</string>
+</resources>
