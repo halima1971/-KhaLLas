@@ -7,6 +7,7 @@ local.properties
 
 # Log/OS Files
 *.log
+.DS_Store
 
 # Android Studio generated files and folders
 captures/
@@ -32,3 +33,19 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Build outputs
+bin/
+gen/
+out/
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+# ProGuard
+proguard/
+
+# App build folder
+app/build/
